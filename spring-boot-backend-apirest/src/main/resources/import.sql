@@ -1,0 +1,2 @@
+INSERT INTO pacientes (apellidos,fecha_nacimiento,nombres,numero_documento,telefono,tipo_de_documento) VALUES ('gutierrez','1997-11-11','vicotr',1107513617,6570967,'CC');
+INSERT INTO pacientes (apellidos,fecha_nacimiento,nombres,numero_documento,telefono,tipo_de_documento) VALUES ('asd','1997-11-11','aaaa',12345678,2345666,'CC');
